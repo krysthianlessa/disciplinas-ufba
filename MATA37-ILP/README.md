@@ -1,0 +1,2 @@
+# Trabalho Final da disciplina MATA37 - Introdução a Lógica de Programação
+Código na linguagem Pascal que implementa um jogo de Batalha Naval entre dois jogadores. Foi atividade avaliativa da disciplina MATA37 do Departamento de Ciência da Computação da UFBA.

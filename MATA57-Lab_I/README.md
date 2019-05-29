@@ -1,0 +1,2 @@
+# Trabalho Final da disciplina MATA57 - Laboratório de Programação I
+Código na linguagem C que implementa uma calculadora com algumas funções básicas. Foi atividade avaliativa da disciplina MATA57 do Departamento de Ciência da Computação da UFBA.
